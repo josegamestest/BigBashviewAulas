@@ -1,0 +1,9 @@
+
+Tornar o script executavel 
+chmo +x e o ome do arquivo mais a extencao
+
+no caso do arquivo
+chmod +x hello-lua.sh
+
+comando para iniciar o script
+bigbashview hello-lua.sh
